@@ -1,7 +1,3 @@
-¡Entendido! Lo siento si mi respuesta anterior fue demasiado detallada. No hay problema, te proporciono un archivo `README.md` puramente documental y explicativo, sin incluir código. Este documento servirá como la documentación de tu proyecto **TecnoZV**.
-
-***
-
 # Documentación del Proyecto: TecnoZV 🏘️
 
 ## 1. Objetivo del Proyecto
