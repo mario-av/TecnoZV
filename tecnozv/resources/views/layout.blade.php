@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="container header-content">
-            <h1><a href="{{ route('home') }}">tecnozv</a></h1>
+            <h1>tecnozv</h1>
             <nav>
                 <ul>
                     <li><a href="{{ route('home') }}">Inicio</a></li>
