@@ -9,7 +9,7 @@
         <p>
             Explora la mejor selección de pisos de segunda mano en el corazón de la ciudad, el Albayzín y la Costa Tropical.
         </p>
-        <a href="#listado-pisos" class="cta-button">
+        <a href="pisos" class="cta-button">
             Ver 20 Oportunidades Ahora
         </a>
     </div>
